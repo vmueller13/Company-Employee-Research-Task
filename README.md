@@ -1,4 +1,4 @@
-# Module 9: SQL Challenge
+# SQL Challenge
 
 <ins>Project Overview</ins> 
 
